@@ -1,4 +1,10 @@
 ### Hi there 👋
+###🔭 I'm currently working on Self working Robot
+###🌱 I'm currently trying to expand my Knowledge to the best
+###👯 I'm am always ready to help and collabrate you can contac't me through mail "hjiwnani2929@gmail.com
+###😄 I'm looking for help if anyone wan to teach or help with learniing any thing i am always ready
+### How to reach me:- 
+###1. Linkedin:- https://www.linkedin.com/in/hemang-jiwnani-110209215/
 
 <!--
 **Hjiwnain/hjiwnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
