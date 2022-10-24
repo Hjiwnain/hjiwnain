@@ -36,6 +36,6 @@
 
 
 ### ✍️ Random Dev Quote
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Leetcode Stats]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
