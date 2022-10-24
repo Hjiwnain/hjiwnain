@@ -27,7 +27,7 @@
 <a target="_blank"href="https://medium.com/@hjiwnani2929"> <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a target="_blank"href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBmlkBxvpxpFmsFFBkcMwNpmZHqGZrJxpZSTLqZCgwFKFvpgtHkGhTRXQrTjzJCMWFqBmhN"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank"href="https://www.linkedin.com/in/hemangjiwnani/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank"href="https://leetcode.com/NoobFox/"> <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a target="_blank"href="https://leetcode.com/"> <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
 
 # 📊 GitHub Stats:
@@ -36,6 +36,6 @@
 
 
 ### ✍️ Random Dev Quote
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Leetcode Stats](https://leetcode.card.workers.dev/NoobFox?theme=dark&font=source_code_pro&extension=null)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Leetcode Stats]
 
 ---
