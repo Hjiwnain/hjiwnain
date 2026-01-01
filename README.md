@@ -30,12 +30,4 @@
 <a target="_blank"href="https://leetcode.com/"> <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hjiwnain&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hjiwnain&theme=darcula&hide_border=false)<br/>
-
-
-### ✍️ Random Dev Quote
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 ---
